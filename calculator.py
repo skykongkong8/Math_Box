@@ -10,6 +10,3 @@ def divide(a,b):
         return a/b
     else:
         return 'ZeroDivisionError'
-
-def int_sqrt_free(N):
-    return round(N**0.5)

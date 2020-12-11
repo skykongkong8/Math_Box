@@ -11,4 +11,4 @@ def divide(a,b):
     else:
         return 'ZeroDivisionError'
 
-print(f'[{1},{2},{3}]')
+#여기까지가 기본적인 수학 함수입니다.

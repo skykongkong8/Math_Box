@@ -11,5 +11,5 @@ def divide(a,b):
     else:
         return 'ZeroDivisionError'
 
-def int_sqrt(N):
+def int_sqrt_free(N):
     return round(N**0.5)

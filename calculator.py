@@ -12,3 +12,5 @@ def divide(a,b):
         return 'ZeroDivisionError'
 def get_remainder(a,b):
     return a//b
+def test():
+    return 'this is test function'

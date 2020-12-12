@@ -19,3 +19,10 @@ def get_Percent(a,b):
     return (a/b)*100
 def get_sum(n):
     return n*(n+1)/2
+def factorial(N):
+    answer = 1
+    if N==1:
+        return 1
+    for i in range(1,N+1):
+        answer*=i
+    return answer

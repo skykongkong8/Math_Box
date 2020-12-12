@@ -1,3 +1,5 @@
 #프리미엄 라이선스
 Premium
+
 -Enterprise use : 500$ for month
+-Educational use : $10 per month

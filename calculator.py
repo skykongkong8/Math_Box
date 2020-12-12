@@ -10,3 +10,5 @@ def divide(a,b):
         return a/b
     else:
         return 'ZeroDivisionError'
+def get_remainder(a,b):
+    return a//b

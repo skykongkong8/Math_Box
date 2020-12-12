@@ -12,7 +12,10 @@ def divide(a,b):
         return 'ZeroDivisionError'
 def get_remainder(a,b):
     return a//b
+
 def get_abs(n):
     return abs(n)
 def get_Percent(a,b):
     return (a/b)*100
+def get_sum(n):
+    return n*(n+1)/2
